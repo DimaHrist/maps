@@ -3,6 +3,7 @@ import { MapStateInfoService } from './map-state-info.service'
 
 declare let L;
 
+
 @Component({
   selector: 'app-root',
   templateUrl: './app.component.html',
